@@ -1,0 +1,263 @@
+{
+	"folder_history":
+	[
+		"/Users/jun/Documents/Learn/ClionWorkSpace/PATOldCode",
+		"/Users/jun/Documents/Learn/ClionWorkSpace/PAT",
+		"/Users/jun/Desktop/Mastering-Python-Design-Patterns-code/cp05-Decotrator",
+		"/Users/jun/Documents/Learn/django_py3/typeidea",
+		"/Users/jun/Desktop/Mastering-Python-Design-Patterns-code/cp04-Adapter",
+		"/Users/jun/Desktop/Mastering-Python-Design-Patterns-code/cp03-Prototype",
+		"/Users/jun/Desktop/Mastering-Python-Design-Patterns-code",
+		"/Users/jun/Desktop/mybatis-spring-springmvc-oracle-maven高级-权限管理/01-MyBatis/01-第一天/代码/mybati第一天源码",
+		"/Users/jun/Movies/lectures/Java/00_尚硅谷大数据学科--基础阶段/尚硅谷Java核心基础_2019年版/课件笔记源码资料/4_代码/第2部分：Java高级编程/JavaSenior",
+		"/Users/jun/Movies/lectures/前端/ReactBasic/react全家桶资料/04_静态页面/route_page1",
+		"/Users/jun/Movies/lectures/前端/ReactBasic/react全家桶资料/04_静态页面/todos_page",
+		"/Users/jun/Movies/lectures/前端/ReactBasic/源码/react_staging",
+		"/Users/jun/Desktop/源码/redux_test",
+		"/Users/jun/Desktop/react全家桶资料/04_静态页面/route_page2",
+		"/Users/jun/Desktop/react全家桶资料/04_静态页面/route_page1",
+		"/Users/jun/Desktop/react全家桶资料/04_静态页面/todos_page",
+		"/Users/jun/Desktop/源码/react_basic",
+		"/Users/jun/Documents/Learn/react_basic",
+		"/Users/jun/Desktop/源码/react_basic/06_组件实例三大属性1_state",
+		"/Users/jun/Documents/Learn/big_data",
+		"/Users/jun/Desktop/re-learning",
+		"/Users/jun/Desktop/ncdc",
+		"/Users/jun/Documents/Book/柳婼/08_SQL必知必会_code",
+		"/Users/jun/Desktop/combin/raw",
+		"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考",
+		"/Users/jun/Library/Rime"
+	],
+	"last_version": 3140,
+	"last_window_id": 185,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1005.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 119.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/jun/Todolist/GettingStarted.jsx",
+				"/Users/jun/Library/Application Support/Übersicht/widgets/ToDo.widget/index.coffee",
+				"/Users/jun/Documents/RCode/MultivariateStatistical/chapter02/case.R",
+				"/Users/jun/Documents/RCode/MultivariateStatistical/chapter02/02_数据的数学表达.R",
+				"/Users/jun/Desktop/install.txt",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1010.cpp",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1008.cpp",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1009.cpp",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1006.cpp",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1007.cpp",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1005.cpp",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1004.cpp",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1002.cpp",
+				"/Users/jun/Documents/Learn/ClionWorkSpace/PAT/BasicLevel/1003.cpp",
+				"/Users/jun/Documents/daily/review/tools/parse_xml.py",
+				"/Users/jun/Documents/Learn/porn/utils/down_list",
+				"/Users/jun/Desktop/考研词汇绿宝书 (3 List per Week).md",
+				"/Users/jun/Documents/Learn/django_py3/typeidea/README.md",
+				"/Users/jun/Documents/Learn/django_py3/typeidea/.gitignore",
+				"/Users/jun/Desktop/downloaded",
+				"/Users/jun/Desktop/movies",
+				"/Users/jun/Documents/Learn/porn/json_data/onejav.json",
+				"/Users/jun/Documents/Learn/porn/onejav.json",
+				"/Users/jun/Documents/Learn/porn/deploy/sehuatang.json",
+				"/Users/jun/Desktop/v2ray/build.sh",
+				"/Users/jun/Movies/lectures/Java/01_Java高级/16_尚硅谷 韩顺平 图解Java设计模式/源码笔记课件/资料/DependencyPass.java",
+				"/Users/jun/Desktop/mybatis-spring-springmvc-oracle-maven高级-权限管理/01-MyBatis/01-第一天/资料/资料/mybatis配置文件的约束/Mapper的约束.xml",
+				"/Users/jun/Desktop/mybatis-spring-springmvc-oracle-maven高级-权限管理/01-MyBatis/01-第一天/资料/资料/mybatis配置文件的约束/Config的约束.xml",
+				"/Users/jun/Desktop/mybatis-spring-springmvc-oracle-maven高级-权限管理/01-MyBatis/01-第一天/资料/资料/mybatisdb.sql",
+				"/Users/jun/Documents/Learn/react-learning/redux-learning/src/containers/Person/index.jsx",
+				"/Users/jun/Desktop/源码/redux_test/README.md",
+				"/Users/jun/Desktop/react全家桶资料/04_静态页面/route_page2/home-news.html",
+				"/Users/jun/Desktop/react全家桶资料/04_静态页面/route_page1/home.html",
+				"/Users/jun/Library/Application Support/V2RayX/pac/pac.js",
+				"/Users/jun/Movies/lectures/前端/rename.sh",
+				"/Users/jun/Movies/lectures/前端/rename/rename.sh",
+				"/Users/jun/Desktop/react全家桶资料/04_静态页面/todos_page/index.html",
+				"/Users/jun/Documents/Learn/react_staging/src/Hello.js",
+				"/Users/jun/Desktop/源码/react_basic/08_组件实例三大属性3_refs/3_回调ref中回调执行次数的问题.html",
+				"/Users/jun/Desktop/v2ray/conf.json",
+				"/Users/jun/Desktop/v2ray/conf.jso",
+				"/Users/jun/Documents/Book/浙大/down.sh",
+				"/Users/jun/Documents/Book/浙大/list",
+				"/Users/jun/Documents/Book/books/04_LinearRegression.pdf",
+				"/Users/jun/Documents/Learn/porn/sehuatang_output/output/sehuatang.json",
+				"/Users/jun/Desktop/ncdc/ncdc.txt",
+				"/Users/jun/Desktop/re-learning/chapter02/text1",
+				"/Users/jun/Documents/Book/柳婼/08_SQL必知必会_code/create.sql",
+				"/Users/jun/Desktop/ncdc/down_data.sh",
+				"/Users/jun/Desktop/ncdc.txt",
+				"/Users/jun/Desktop/Spark-The-Definitive-Guide/code/A_Gentle_Introduction_to_Spark-Chapter_3_A_Tour_of_Sparks_Toolset.scala",
+				"/Users/jun/Desktop/combin/max_temperature.sh",
+				"/Users/jun/Desktop/ncdc/combine.sh",
+				"/Users/jun/Desktop/combin/optput/part-r-00000",
+				"/Users/jun/Downloads/max_temperature.sh",
+				"/Users/jun/Downloads/all/down_data.sh",
+				"/Users/jun/Downloads/all/1901",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/作业.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day01_test.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day02_test.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day03_test.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day04_test.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day05_test.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day06_test.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day07_test.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day08_test.txt",
+				"/Users/jun/Movies/lectures/Java/02_尚硅谷大数据学科--核心框架/03_尚硅谷大数据之Hadoop视频/2.资料/03_每日一考/day09_test.txt",
+				"/Users/jun/Desktop/hello.txt",
+				"/Users/jun/Movies/lectures/Java/01_尚硅谷大数据学科--Java高级/14_尚硅谷Kubernetes（k8s）新版/K8s补充资料.txt",
+				"/Users/jun/Movies/lectures/Java/01_尚硅谷大数据学科--Java高级/01_javaweb/JavaWeb课件/day05_JDBC/笔记/JDBC课堂笔记.md",
+				"/Users/jun/Desktop/order",
+				"/Users/jun/Desktop/尚硅谷大数据学科--核心框架/尚硅谷大数据技术之HBase(2019新版)/视频中所用代码可以在课件中复制，可以直接运行，嫌弃复制麻烦的同学可以自己敲一遍.txt",
+				"/Users/jun/.m2/settings.xml",
+				"/Volumes/Downie 4/安装",
+				"/Users/jun/Desktop/尚硅谷大数据学科--基础阶段/尚硅谷_宋红康_JDBC核心技术(2019新版)/4-软件由于侵权，请自行去官网下载/课程所需软件.txt",
+				"/Users/jun/Movies/films/extract_rename_video.sh",
+				"/Users/jun/Library/Rime/flypy.schema.yaml",
+				"/Users/jun/Library/Rime/squirrel.custom.yaml",
+				"/Users/jun/Library/Rime/default.custom.yaml",
+				"/Users/jun/Library/Rime/user.yaml",
+				"/Users/jun/Library/Rime/installation.yaml",
+				"/Volumes/PDFelement 7/安装",
+				"/Volumes/TimeMachine/Backups.backupdb/jun-Pro/2020-07-03-213625/Macintosh HD - Data/Users/jun/.ssh/id_rsa.pub",
+				"/Volumes/TimeMachine/Backups.backupdb/jun-Pro/2020-07-03-213625/Macintosh HD - Data/Users/jun/.ssh/id_rsa",
+				"/Users/jun/Desktop/袁春风_计算机组成原理_contents"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 71.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1282.0
+	},
+	"windows":
+	[
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

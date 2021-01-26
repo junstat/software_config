@@ -1,0 +1,3 @@
+[
+	{ "keys": ["control+1"], "command": "side_bar_files_open_with", "args": { "paths": [], "application": "/Applications/Google Chrome.app"} }
+]

@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme",
+	"update_check": false,
+	"word_wrap": true
+}

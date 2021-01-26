@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"osx":
+		[
+			"curl",
+			"urllib",
+			"wget"
+		]
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Codecs33",
+		"ConvertToUTF8",
+		"Emmet",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - One Dark"
+	]
+}
